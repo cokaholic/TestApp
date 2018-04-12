@@ -9,3 +9,13 @@ WEB+DB PRESS Vol.104 に掲載されている「いきなりiPhoneアプリ開�
 
 ## Getting Started
 cloneしたら、`TestApp.xcodeproj`をXcodeで開いて使用します。
+
+## Requirements
+- Xcode9.3+
+- Swift4.1
+
+## Author
+Keisuke Tatsumi
+
+- [GitHub](https://github.com/cokaholic)
+- [Twitter](https://twitter.com/TK_u_nya)
